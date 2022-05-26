@@ -6,7 +6,7 @@
 
 ![imagem](https://github.com/Rogerio-mack/VLF/raw/main/openVLF.png)
 
-* Suporte: fs, Google Driver, DropBox?
+* Suporte: fs, Google Drive, DropBox?
 * Load: `generate_json(root), validate_json(root), upload_json(json)`
 * Responsable: `form_responsable(name, email, root, comments(phone, filliations, country))`
 * Update: `update_new_files(root)` 
